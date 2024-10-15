@@ -1,0 +1,27 @@
+body{
+	text-align: center;
+}
+.p{
+	background-color: grey;
+}
+.none {
+	display: none;
+}
+.vis{
+	visibility: hidden;
+}
+.prod{
+	height: 50px;
+}
+.vis1{
+	visibility: visible;
+}
+.z{
+	text-decoration: line-through;
+}
+.dark{
+	background-color: darkgray;
+}
+button{
+	margin-left: 50px;
+}
